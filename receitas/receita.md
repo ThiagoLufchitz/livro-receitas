@@ -1,5 +1,5 @@
-#Strogonoff de Frango
-^^Negrito _Italico :emote
+# Strogonoff de Frango
+^^Negrito^^ _Italico_ :emote:
 
 ###Ingredientes
 
